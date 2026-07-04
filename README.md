@@ -1,6 +1,6 @@
 # HR Attrition Analysis Dashboard
 
-![Campaign Acceptance](images/Dash.png)
+![Dashboard](images/Dash.png)
 
 ## Executive Summary
 
@@ -78,3 +78,171 @@ The goal of this analysis was to transform raw HR data into actionable insights 
 - 15K+
 
 #### Tenure Categories
+- 0 years  
+- 1 year  
+- 3–5 years  
+- 8–10 years  
+
+### Analytical Techniques
+
+- Descriptive Statistics  
+- Attrition Rate Analysis  
+- Demographic Segmentation  
+- Job Role Breakdown  
+- Trend & Distribution Analysis  
+- Data Storytelling  
+
+### Tools Used
+
+- **Power BI**
+  - Data Modeling  
+  - DAX Measures  
+  - Interactive Visualizations  
+  - Storytelling Layouts  
+
+---
+
+# Key Insights
+
+## 1. Age-Based Attrition Patterns
+
+![Dashboard](images/Hr1 (6).png)
+Employees aged **26–35** accounted for nearly **half of all attrition**, indicating early‑career instability and high expectations for growth.
+
+- **18–25:** High early‑career turnover  
+- **26–35:** Highest attrition overall  
+- **36–45:** Moderate attrition  
+- **46–55 & 55+:** Lowest attrition  
+
+### Business Insight  
+Retention strategies should prioritize early‑career development, mentorship, and career progression pathways.
+
+---
+
+## 2. Salary and Attrition
+
+Salary emerged as one of the strongest predictors of attrition.
+
+- **163 departures** were from employees earning **under 5K** monthly.  
+- Attrition decreases significantly as salary increases.
+
+### Business Insight  
+Competitive compensation and value‑aligned benefits can reduce turnover, especially among lower‑income employees.
+
+---
+
+## 3. Tenure and Attrition
+
+Attrition spikes at two critical points:
+
+- **First year:** 59 exits  
+- **3–5 years:** Another major wave  
+
+### Business Insight  
+Early onboarding support and mid‑career growth opportunities are essential for retention.
+
+---
+
+## 4. Job Role Attrition
+
+Certain roles experience significantly higher turnover:
+
+- **Research Scientists:** 100 exits  
+- **Human Resources:** 58  
+- **Sales Representatives:** 44  
+
+### Business Insight  
+High‑pressure or competitive roles require targeted retention strategies, workload balancing, and career development support.
+
+---
+
+## 5. Education and Attrition
+
+Employees with **Life Sciences** and **Medical** backgrounds accounted for over **60%** of attrition.
+
+### Business Insight  
+Role expectations, external opportunities, and workload may influence attrition in specialized fields.
+
+---
+
+# Recommendations
+
+## 1. Strengthen Early‑Career Support
+
+Focus on:
+
+- Onboarding programs  
+- Mentorship  
+- Clear growth pathways  
+
+---
+
+## 2. Improve Compensation for Lower Salary Bands
+
+Examples:
+
+- Salary adjustments  
+- Performance bonuses  
+- Value‑driven benefits  
+
+---
+
+## 3. Target High‑Risk Job Roles
+
+Approaches:
+
+- Workload balancing  
+- Role-specific incentives  
+- Career development plans  
+
+---
+
+## 4. Enhance Mid‑Career Retention
+
+Focus on:
+
+- Leadership training  
+- Internal mobility programs  
+- Skill development opportunities  
+
+---
+
+## 5. Tailor Strategies by Education Background
+
+Potential approaches:
+
+- Specialized retention programs  
+- Clear role expectations  
+- Professional development support  
+
+---
+
+# Conclusion
+
+This analysis demonstrates that employee attrition is shaped by demographic, financial, and role‑specific factors. One pattern remains clear:
+
+> Employees leave when expectations, compensation, or career growth do not align with their needs.
+
+By adopting targeted retention strategies, organizations can reduce turnover, strengthen employee satisfaction, and build a more stable workforce.
+
+---
+
+## Dataset
+
+**Source:** IBM HR Analytics Employee Attrition Dataset  
+Used for educational and analytical purposes.
+
+---
+
+## About the Analyst
+
+### Alex Ssendege
+
+Accounting & Finance professional transitioning into **Data Analytics**, **Business Intelligence**, and **Performance Analysis**.
+
+Passionate about transforming data into actionable insights that support better decision‑making and organizational growth.
+
+📧 **Email:** ssendege26@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/alex-ssendege/  
+💻 **GitHub:** https://github.com/alex-ssendege  
+🌐 **Portfolio:** https://alexssendege.my.canva.site/
