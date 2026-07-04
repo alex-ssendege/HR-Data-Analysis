@@ -106,7 +106,7 @@ The goal of this analysis was to transform raw HR data into actionable insights 
 
 ## 1. Age-Based Attrition Patterns
 
-![Dashboard](images/Hr1 (6).png)
+![Dashboard](images/Age.png)
 Employees aged **26–35** accounted for nearly **half of all attrition**, indicating early‑career instability and high expectations for growth.
 
 - **18–25:** High early‑career turnover  
